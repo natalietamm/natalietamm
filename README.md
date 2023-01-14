@@ -9,7 +9,7 @@ I am a Mechanical Engineering Graduate from the University of Alberta. I am curr
 * Miscrosoft Excel
 
 ## Examples of Work
-<img src="https://github.com/natalietamm/natalietamm/blob/main/BudgetTrackerGif.gif">
+<img src="https://github.com/natalietamm/natalietamm/blob/main/BudgetTrackerGif.gif" width="250">
 
 
 
