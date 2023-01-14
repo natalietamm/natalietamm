@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Natalie
+# Hi there 👋, I'm Natalie
 
 ## Skills and Experience
 * Python
