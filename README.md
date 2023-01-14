@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Natalie
+
+## Skills and Experience
+* Python
+* SQL
+* Power BI
+* Miscrosoft Excel
+
+
 
 <!--
 **natalietamm/natalietamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
