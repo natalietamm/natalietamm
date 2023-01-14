@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Natalie
-I am a Mechanical Engineering Graduate from the University of Alberta and am currently seeking a Data Analyst position. In my free time, I am self-teaching Python, SQL, and Power BI. Using Python, I created a Budget Tracker that records and tracks the user's income and expenses.
+I am a Mechanical Engineering Graduate from the University of Alberta. I am currently seeking a Data Analyst position. In my free time, I am self-teaching Python, SQL, and Power BI. Using Python, I created a Budget Tracker that records and tracks the user's income and expenses.
 
 ## Skills
 * Python
