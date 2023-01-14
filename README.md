@@ -10,7 +10,7 @@ I am a Mechanical Engineering Graduate from the University of Alberta. I am curr
 
 ## Examples of Work
 ### Budget Tracker
-<img src="https://github.com/natalietamm/natalietamm/blob/main/BudgetTrackerGif.gif" width="280">
+<a href="[http://www.google.com](https://github.com/natalietamm/budget-tracker)" target="_blank"><img src="https://github.com/natalietamm/natalietamm/blob/main/BudgetTrackerGif.gif" width="280"></a>
 
 
 
