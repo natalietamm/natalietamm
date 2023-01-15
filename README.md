@@ -5,6 +5,7 @@ I am a Mechanical Engineering Graduate from the University of Alberta. I am curr
 * Python
 * SQL
 * Power BI
+* Git
 * HTML
 * Miscrosoft Excel
 
